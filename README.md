@@ -42,3 +42,4 @@ max lines: 1-10 lines of output from ollama.  More than that will eat all of you
 next you will see all llms that have been discovered on your local system.
 You should only toggle one at a time to on.
 
+![alt text](ComfyUI_00001_.png)
